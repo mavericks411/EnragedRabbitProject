@@ -1,5 +1,4 @@
-疯狂的兔子 多彩混合打印
-https://www.klipper3d.org/Releases.html klipper3d的固件 发布
+
 # EnragedRabbitProject
 
 Welcome to the Enraged Rabbit Project Github page!
